@@ -1,2 +1,4 @@
-# Leetcode_patice
-Learning porgress
+# Leetcode Pratice
+记录学习过程
+
+
